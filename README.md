@@ -164,7 +164,7 @@ The project includes a detailed business analysis report with executive summary,
 
 ## 👨‍💻 Author
 
-Krish Yadav
+Krish
 
 B.Tech Computer Science Engineering
 
